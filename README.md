@@ -74,10 +74,8 @@ Docker Hub: `hasinildp/transcription-agent:latest`
 
 ## Project Team
 
-- **Transcription Agent**: [Your Name]
-- **Translation Agent**: [Teammate 1]
-- **Summarization Agent**: [Teammate 2]
+- **Transcription Agent**: [Hasini Lagatapathi]
+- **Translation Agent**: [Van Phan]
+- **Summarization Agent**: [Agarwal Dhruvikaaa]
 
-## License
 
-[Add license here]
