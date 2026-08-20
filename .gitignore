@@ -1,0 +1,29 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# ── Node / Frontend ─────────────────────────────────────
+node_modules/
+dist/
+.vite/
+
+# ── Secrets ─────────────────────────────────────────────
+.env
+.env.local
+*.key
+
+# ── Generated output (per-run, not needed in repo) ──────
+transcript_*.txt
+consultation_summary_*.md
+original_transcript_*.txt
+translated_english_*.txt
+
+# ── OS / Editor junk ─────────────────────────────────────
+.DS_Store
+Thumbs.db
+tempCodeRunnerFile.py
+.vscode/
